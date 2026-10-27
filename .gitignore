@@ -1,0 +1,10 @@
+bin/
+obj/
+/.vs/
+/logs/
+*.tmp
+/.env
+/.vscode/*
+!/.vscode/extensions.json
+/docs/drafts/*
+!/docs/drafts/keep.md
